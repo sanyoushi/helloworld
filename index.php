@@ -1,2 +1,4 @@
 <?php 
-  println("Hello world !");
+  echo "Hello world !";
+  echo "\n";
+?>
